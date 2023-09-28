@@ -1,0 +1,11 @@
+.buttons{
+    display: grid;
+    row-gap: 5px;
+    column-gap: 5px;
+    grid-template-columns: auto auto auto auto;
+}
+.inputBox{
+    width: 100%;
+    padding: 20px 0;
+    margin-bottom: 5px;
+}
